@@ -1,3 +1,7 @@
+this was an exercise in writing a cool demo with no stdlib. it's very far from being a usable
+emulator, it's more like a local proof of concept. I have a more full featured emulator in the
+works but at the moment I don't feel like doing maple dev
+
 JunoMS is a MapleStory v62 server emulator written in C without the standard 
 library or any dependency at all. Currently, the executable is under 30kb and 
 supports linux i386 and AMD64 only. Windows support is planned once the core features are
